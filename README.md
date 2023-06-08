@@ -1,2 +1,3 @@
 # Android_EndofTerm
 安卓期末作业  简单的答题系统 可以登录并记录成绩
+使用SQLite数据库存储用户信息，进入程序后先进行登录或注册。利用组件如ScrollView,RadioButton等实现答题界面。答题完成后可查看排名和正确答案，此界面用TabLayout和ListView实现滑动效果
